@@ -46,9 +46,9 @@ export type Profile = {
 }
 
 export const profile: Profile = {
-  name: 'Your Name',
-  firstName: 'Your Name',
-  handle: '@yourhandle',
+  name: 'Mark Jade Dela Cruz',
+  firstName: 'Mark Jade',
+  handle: '@mjade4',
   role: 'PLACEHOLDER - your title',
   avatarSrc: '/avatar.svg',
   verifiedLabel: 'PLACEHOLDER - what the tick means (e.g. a certification)',
